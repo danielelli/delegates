@@ -1,0 +1,17 @@
+#POGODOGO
+@author tocipher
+@description jumps multiple locations to attack other delegates
+
+subtract -5 from the value at 11
+add 2 to the value at 11
+add 4 to the value at 7
+subtract -4 from the value at 7
+write 1 to the address specified at 5
+write 1 to the address specified at 5
+write 1 to the address specified at 5
+write 1 to the address specified at 5
+go to -8
+data 10
+data 100
+data 5
+data 20
